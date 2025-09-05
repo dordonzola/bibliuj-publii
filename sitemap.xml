@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://dordonzola.github.io/bibliuj-publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://dordonzola.github.io/bibliuj-publii/</loc>
+</url>
+<url>
+<loc>https://dordonzola.github.io/bibliuj-publii/dzialalnosc.html</loc>
+<lastmod>2025-09-05T11:27:33+02:00</lastmod>
+</url>
+<url>
+<loc>https://dordonzola.github.io/bibliuj-publii/kontakt.html</loc>
+<lastmod>2025-09-03T14:27:03+02:00</lastmod>
+</url>
+<url>
+<loc>https://dordonzola.github.io/bibliuj-publii/nasze-spotkania-w-strefie-studenckiej.html</loc>
+<lastmod>2025-09-05T11:30:57+02:00</lastmod>
+</url>
+<url>
+<loc>https://dordonzola.github.io/bibliuj-publii/o-nas.html</loc>
+<lastmod>2025-09-04T21:20:49+02:00</lastmod>
+<image:image>
+<image:loc>https://dordonzola.github.io/bibliuj-publii/media/posts/3/chata-2.jpg</image:loc>
+<image:title><![CDATA[chata]]></image:title>
+</image:image>
+</url>
+</urlset>

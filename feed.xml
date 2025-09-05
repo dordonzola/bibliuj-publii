@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bibliuj</title>
+    <link href="https://dordonzola.github.io/bibliuj-publii/feed.xml" rel="self" />
+    <link href="https://dordonzola.github.io/bibliuj-publii" />
+    <updated>2025-09-05T11:30:57+02:00</updated>
+    <author>
+        <name>Dorota</name>
+    </author>
+    <id>https://dordonzola.github.io/bibliuj-publii</id>
+
+    <entry>
+        <title>Nasze spotkania w strefie studenckiej</title>
+        <author>
+            <name>Dorota</name>
+        </author>
+        <link href="https://dordonzola.github.io/bibliuj-publii/nasze-spotkania-w-strefie-studenckiej.html"/>
+        <id>https://dordonzola.github.io/bibliuj-publii/nasze-spotkania-w-strefie-studenckiej.html</id>
+            <category term="Działalność"/>
+
+        <updated>2025-09-05T10:49:19+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="media/files/grupki.png" alt="grupki" width="4624" height="3472" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dordonzola.github.io/bibliuj-publii/sitemap.xml

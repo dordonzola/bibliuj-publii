@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bibliuj",
+    "description": "",
+    "home_page_url": "https://dordonzola.github.io/bibliuj-publii",
+    "feed_url": "https://dordonzola.github.io/bibliuj-publii/feed.json",
+    "user_comment": "",
+    "icon": "https://dordonzola.github.io/bibliuj-publii/media/website/Logo-bibliuj.png",
+    "author": {
+        "name": "Dorota"
+    },
+    "items": [
+        {
+            "id": "https://dordonzola.github.io/bibliuj-publii/nasze-spotkania-w-strefie-studenckiej.html",
+            "url": "https://dordonzola.github.io/bibliuj-publii/nasze-spotkania-w-strefie-studenckiej.html",
+            "title": "Nasze spotkania w strefie studenckiej",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"media/files/grupki.png\" alt=\"grupki\" width=\"4624\" height=\"3472\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Dorota"
+            },
+            "tags": [
+                   "Działalność"
+            ],
+            "date_published": "2025-09-05T10:49:19+02:00",
+            "date_modified": "2025-09-05T11:30:57+02:00"
+        }
+    ]
+}
